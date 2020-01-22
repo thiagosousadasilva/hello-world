@@ -1,2 +1,3 @@
 # hello-world
-Apenas mais um repositório
+
+Olá, eu sou Thiago Sousa e estou aprendendo a usar o Github.
